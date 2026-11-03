@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hernanjaeden.github.io/it-portfolio/sitemap.xml
